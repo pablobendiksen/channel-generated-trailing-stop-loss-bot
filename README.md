@@ -22,7 +22,7 @@ $ python3 setup.py install
 ### Conda Environment Creation
 Alternatively, open up a command line interface and from the root directory of the project run:
 ```
-conda env create -f environment.yml
+conda env create -f trend_activated_bot_env.yml
 ```
 NOTE: This approach may lead to a ResolvePackageNotFound error depending on your machine specifications.
 
