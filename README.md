@@ -1,5 +1,5 @@
 # channel-generated-trailing-stop-loss-bot
-A Technical Analysis employing test of the Unicorn Binance Trailing Stop Loss Engine within Binance's Futures Exchange
+A Technical Analysis employing test of the Unicorn Binance Trailing Stop Loss Engine within Binance's Futures Exchange. This project seeks to computationally define trending channels based on price action patterns typically found visually. Upon succesfully subsetting the set of generated channels using historic data [TODO], the program will proceed to test the algorithm accuracy on real-time data.
 
 ## Installation
 To facilitate the installation of dependencies, in an OS agnostic way, non-native libraries relied upon by this project will be provided in the form of requirements.txt and setup.py files, respectively. Once completed, this project will be uploaded to PyPI (Python Package Index).
